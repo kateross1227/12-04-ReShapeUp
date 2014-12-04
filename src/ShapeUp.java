@@ -68,3 +68,4 @@ public class ShapeUp {
         System.out.println("rectangle's square = " + rectangle.isSquare());
     }
 }
+
